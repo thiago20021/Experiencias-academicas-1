@@ -1,0 +1,39 @@
+{
+  "nombre_empresa":"Miscelanea JMD",
+  "ubicacion":"Bogotá D.C., Colombia ",
+  "integrantes":
+  [
+    {
+      "nombre":"Santiago Diaz Prieto",
+      "edad":17,
+      "ubicacion":"Bogotá D.C., Colombia ",
+      "experiencias academicas":[
+        "Bachiller-tecnico en informatica.",
+        "Formación SENA en programación de software.",
+        "Tecnico en programcion de software.",
+        "Tecnico en Bases de Datos.",
+        "Desarrollo de una pagina web."],
+      "experiencias laborales":[
+        "Programador de software Java.",
+        "Desarrollo de aplicaciones en Java.",
+        "Diseñador de una página y sitio web.",
+        "Desarrollo de proyectos HTML."]
+    },
+    {
+      "nombre":"Raul R. Hoyos F.",
+      "edad":16,
+      "ubicacion":"Bogotá D.C., Colombia ",
+      "experiencias academicas":[
+        "Bachiller-tecnico en informatica.",
+        "Formación SENA en programación de software.",
+        "Tecnico en programcion de software.",
+        "Tecnico en Bases de Datos.",
+        "Desarrollo de una pagina web."],
+      "experiencias laborales":[
+        "Programador de software Java.",
+        "Desarrollo de aplicaciones en Java.",
+        "Diseñador de una página y sitio web.",
+        "Desarrollo de proyectos HTML."]
+    }  
+  ]
+}
